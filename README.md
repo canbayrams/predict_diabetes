@@ -1,6 +1,6 @@
-# Diabetes Prediction: 
+# Diyabet Tahmini: 
 
-## Table of Content
+## İçerikler
   * [Demo](#demo)
   * [Overview](#overview)
   * [Motivation](#motivation)
@@ -11,9 +11,9 @@
 
 
 ## Demo
-Link: [https://diabetes--predictor-api.herokuapp.com/](https://diabetes--predictor-api.herokuapp.com/)
+Link: [https://diyabet-tahmin.herokuapp.com/](https://diyabet-tahmin.herokuapp.com/)
 
-[![](https://i.imgur.com/myiHTR1.png)](https://diabetes--predictor-api.herokuapp.com/)
+[![](https://hizliresim.com/wiigTp)](https://diyabet-tahmin.herokuapp.com/)
 
 ## Overview
 This is a simple Flask web app which predicts whether a patient is having diabetes or not.
