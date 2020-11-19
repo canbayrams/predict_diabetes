@@ -13,26 +13,20 @@
 ## Demo
 Link: [https://diyabet-tahmin.herokuapp.com/](https://diyabet-tahmin.herokuapp.com/)
 
-[![](https://hizliresim.com/wiigTp)](https://hizliresim.com/wiigTp)
 
-## Overview
-This is a simple Flask web app which predicts whether a patient is having diabetes or not.
+## Genel Bakış
+Bu, bir hastanın şeker hastası olup olmadığını tahmin eden basit bir Flask web uygulamasıdır.
 
-## Motivation
-What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
 
-## Installation
-The Code is written in Python 3.6.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+## Kurulum
+Kod Python 3.6.10'da yazılmıştır. Python kurulu değilse [burada] (https://www.python.org/downloads/) bulabilirsiniz. Python'un daha düşük bir sürümünü kullanıyorsanız pip paketini kullanarak yükseltebilir, pip'in en son sürümüne sahip olduğunuzdan emin olabilirsiniz. Gerekli paketleri ve kitaplıkları kurmak için, depodan [klonlama] (https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) sonra proje dizininde bu komutu çalıştırın:
 ```bash
 pip install -r requirements.txt
 ```
 
-## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
-
+## Heroku'da Paylaşım
+Sanal uygulama oluşturmak için giriş yapın veya kayıt olun. Bu projeyi manuel olarak dağıtmak için github profilinizi bağlayabilir veya ctl'yi indirebilirsiniz.
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
-
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Directory Tree 
 ```
