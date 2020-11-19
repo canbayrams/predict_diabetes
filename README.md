@@ -13,7 +13,7 @@
 ## Demo
 Link: [https://diyabet-tahmin.herokuapp.com/](https://diyabet-tahmin.herokuapp.com/)
 
-[![](https://hizliresim.com/wiigTp)](https://diyabet-tahmin.herokuapp.com/)
+[![](https://hizliresim.com/wiigTp)](https://hizliresim.com/wiigTp)
 
 ## Overview
 This is a simple Flask web app which predicts whether a patient is having diabetes or not.
