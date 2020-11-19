@@ -1,18 +1,18 @@
 body {
     text-align: center;
-    background-color: #ca8f8f;
+    background-color: #e35d6a;
 }
 
 header {
     font-family: 'Ultra', serif;
     padding-top: 40;
     padding-bottom: 40;
-    background-color: #704f4f;
-    color: #d8ebb5;
+    background-color: #88373f;
+    color: #88373f;
 }
 
 .btn {
-    background-color: #323232;
+    background-color: #f3bec3;
 }
 
 
